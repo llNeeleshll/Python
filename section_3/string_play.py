@@ -11,3 +11,10 @@ print(text[0::2])
 
 # Reversing the string
 print(text[::-1])
+
+# Print a word 10 times?
+print("Hello " * 10)
+
+print("Hello " * 10 + "World!")
+
+print("awe" in text)
